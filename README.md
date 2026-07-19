@@ -1,4 +1,4 @@
-# try-hack-me-labs-writups
+# tryhackme-foolsmate
 TRYHACKME FoolsMate Writeup
 
 
